@@ -2,7 +2,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DanielButlerIsMyName&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielButlerIsMyName&langs_count=5&theme=tokyonight)]()
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielButlerIsMyName&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielButlerIsMyName&count_private=true)](https://github.com/DanielButlersPortfolio)
 
 <!--
 **DanielButlerIsMyName/DanielButlerIsMyName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
